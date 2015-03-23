@@ -8,9 +8,6 @@ public class testGitHello {
 		System.out.println("tetssss");
 		
 		System.out.println("tetssss1");
-		
-		
 		System.out.println("tetssssdfdfd1");
 	}
-
 }
